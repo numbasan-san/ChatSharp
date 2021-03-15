@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\bin\Debug\PantallaChat.exe.config
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\bin\Debug\PantallaChat.exe
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\bin\Debug\PantallaChat.pdb
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.Form1.resources
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.Properties.Resources.resources
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.exe
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.pdb
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\bin\Debug\Transitions.dll
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\bin\Debug\Transitions.pdb
+C:\Users\LENOVO\Documents\C#Projects\PantallaChat\obj\Debug\PantallaChat.csproj.CopyComplete

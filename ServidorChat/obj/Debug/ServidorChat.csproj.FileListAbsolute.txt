@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\C#Projects\ServidorChat\bin\Debug\ServidorChat.exe.config
+C:\Users\LENOVO\Documents\C#Projects\ServidorChat\bin\Debug\ServidorChat.exe
+C:\Users\LENOVO\Documents\C#Projects\ServidorChat\bin\Debug\ServidorChat.pdb
+C:\Users\LENOVO\Documents\C#Projects\ServidorChat\obj\Debug\ServidorChat.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\C#Projects\ServidorChat\obj\Debug\ServidorChat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C#Projects\ServidorChat\obj\Debug\ServidorChat.exe
+C:\Users\LENOVO\Documents\C#Projects\ServidorChat\obj\Debug\ServidorChat.pdb
